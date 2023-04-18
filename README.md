@@ -6,7 +6,7 @@ This project demonstrates the utilization of advanced CSS techniques and CSS gri
 
 1. Clone / Download Repository - https://github.com/vrbin90s/Nexter-Project.git
 2. Run index.html file in your browser to interact with the app.
-3. To use SASS Compiler and Live Server run npm install & than npm run start (default browser is set to FireFox so adjust composer.json file accordingly)
+3. To use SASS Compiler and Live Server run npm install & than npm run start.
 
 ## Screenshots
 
