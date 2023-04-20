@@ -1,4 +1,4 @@
-## Nexter-Project: CSS Grids Using Advanced CSS and SASS
+## Nexter-Project: Advanced CSS & SASS - CSS Grids
 
 This project demonstrates the utilization of advanced CSS techniques and CSS grids to develop a contemporary and responsive web design. It serves as a prime illustration of employing CSS grids to construct fashionable and sophisticated web applications.
 
